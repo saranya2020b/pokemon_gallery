@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+     background-color: aliceblue;
+}
+.carousel-inner p{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: #fff;
+    font-size: 25;
+    
+}
+#myCarousel{
+    background-color: aqua;
+}
+#myCarousel img{
+    height: 300px;
+    margin-top: 35px;
+}
+.wp{
+    height: 300px;
+    width: 200px
+    
+}
+.fp{
+    height: 300px;
+    width: 200px;
+}
+water_pokemons{
+    background-color:cyan;
+}
+fire_pokemons{
+    background-color:orange;
+}
